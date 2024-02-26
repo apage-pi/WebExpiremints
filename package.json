@@ -1,0 +1,8 @@
+{
+  "name": "webexpiremints",
+  "version": "1.0.0",
+  "description": "Experiments for Web Development",
+  "main": "index.js",
+  "author": "Adam Page",
+  "license": "ISC"
+}
